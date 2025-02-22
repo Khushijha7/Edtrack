@@ -1,5 +1,3 @@
----
-
 ```markdown
 # 🎓 EdTrack - Candidate Management System  
 
