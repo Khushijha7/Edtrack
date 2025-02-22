@@ -81,22 +81,23 @@ python main.py
 
 ---
 
+## 🏆 Credits  
+
+Developed with ❤️ by **Khushi K. Jha**.  
+
+📧 Feel free to **contribute, fork, or reach out for improvements**!  
+
+---
+
 ## 📜 License  
 
 📖 This project is **open-source** and available under the [MIT License](LICENSE).  
-
-📧 Feel free to contribute, fork, or suggest improvements!  
 
 ---
 
 🚀 **Transform student management with EdTrack today!** 🎓✨  
 ```
 
-```
-🏆 Credits
-Developed with ❤️ by Khushi K. Jha.
-```
-
 ---
 
-This version is **visually appealing**, **structured**, and **engaging** for potential users and contributors. Let me know if you'd like any tweaks! 🚀😊
+This version includes the **credits section** while maintaining an **engaging and structured format**. Let me know if you need any more tweaks! 🚀😊
