@@ -87,12 +87,6 @@ Developed with ❤️ by **Khushi K. Jha**.
 
 ---
 
-## 📜 License  
-
-📖 This project is **open-source** and available under the [MIT License](LICENSE).  
-
----
-
 🚀 **Transform student management with EdTrack today!** 🎓✨  
 ```
 
